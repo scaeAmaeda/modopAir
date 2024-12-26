@@ -5,4 +5,4 @@
 - air
 
 
-Et juste reload à chaque fois (attention, config dans .toml des fois que des trucs soient pas pris en compte à éviter normalement tout est bon)
+Et juste reload à chaque fois (attention, config dans .toml des fois que des trucs soient pas pris en compte)
